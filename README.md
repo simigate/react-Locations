@@ -1,5 +1,12 @@
 # react-Locations
 
+App for Advertising Tourist Location :
+
+App has a static part which gives great visual appeal .
+
+The dynamic part of the App uploads with one location.
+
+You can add any number of locations and also edit details of any existing location by using the same component ChangeData which is a form.
 
 
 ![Places](https://user-images.githubusercontent.com/99355229/210176231-702686c6-05da-4a0e-aecc-e05099f66e71.jpg)
