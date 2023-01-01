@@ -1,0 +1,94 @@
+{
+    "data": [
+        {
+            "image": "../images/image1.jpg",
+            "location": "Location1",
+            "star": 5,
+            "count": 60,
+            "email": "location1.location.com",
+            "phone": "0000000001",
+            "price": 120,
+            "openSlot": 0
+        },
+        {
+            "image": "../images/image2.jpg",
+            "location": "Location2",
+            "star": 5,
+            "count": 20,
+            "email": "image2.location.com",
+            "phone": "0000000002",
+            "price": 100,
+            "openSlot": 0
+        },
+        {
+            "image": "../images/image3.jpg",
+            "location": "Location3",
+            "star": 5,
+            "count": 15,
+            "email": "image3.location.com",
+            "phone": "0000000003",
+            "price": 175,
+            "openSlot": 1
+        },
+        {
+            "image": "../images/image4.jpg",
+            "location": "Location4",
+            "star": 5,
+            "count": 90,
+            "email": "image4.location.com",
+            "phone": "0000000004",
+            "price": 150,
+            "openSlot": 1
+        },
+        {
+            "image": "../images/image5.jpg",
+            "location": "Location5",
+            "star": 5,
+            "count": 60,
+            "email": "image5.location.com",
+            "phone": "0000000005",
+            "price": 90,
+            "openSlot": 0
+        },
+        {
+            "image": "../images/image6.jpg",
+            "location": "Location6",
+            "star": 5,
+            "count": 30,
+            "email": "image6.location.com",
+            "phone": "0000000006",
+            "price": 120,
+            "openSlot": 1
+        },
+        {
+            "image": "../images/image7.jpg",
+            "location": "Location7",
+            "star": 5,
+            "count": 10,
+            "email": "image7.location.com",
+            "phone": "0000000007",
+            "price": 199,
+            "openSlot": 0
+        },
+        {
+            "image": "../images/image8.jpg",
+            "location": "Location8",
+            "star": 5,
+            "count": 200,
+            "email": "image8.location.com",
+            "phone": "0000000008",
+            "price": 99,
+            "openSlot": 1
+        },
+        {
+            "image": "../images/image9.jpg",
+            "location": "Location9",
+            "star": 5,
+            "count": 20,
+            "email": "image9.location.com",
+            "phone": "0000000009",
+            "price": 120,
+            "openSlot": 0
+        }
+    ]
+}
