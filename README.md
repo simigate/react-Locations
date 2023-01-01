@@ -1,6 +1,6 @@
 # react-Locations
 
-App for Advertising Tourist Location :
+App for Advertising Tourist Locations :
 
 App has a static part, which gives it a great visual appeal .
 
@@ -12,6 +12,7 @@ The information that can be added/edited for a location includes the following:
 
 Location picture , Location Name , reviews , number of reviews , email , phone and price per person
 
+A few screenshots of the App is added below:
 
 ![Places](https://user-images.githubusercontent.com/99355229/210176231-702686c6-05da-4a0e-aecc-e05099f66e71.jpg)
 
