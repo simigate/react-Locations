@@ -1,4 +1,4 @@
-# react-Locations
+# MyTours
 
 App for Advertising Tourist Locations :
 
